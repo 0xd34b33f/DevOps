@@ -1,0 +1,1 @@
+dig slash16.org @1.1.1.1 | grep SERVER | cut -b12-
