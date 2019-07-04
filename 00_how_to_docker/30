@@ -1,0 +1,2 @@
+docker service scale --detach=false marines=20
+

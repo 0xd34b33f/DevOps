@@ -1,0 +1,1 @@
+docker run --rm -a stdin -a stdout -it alpine /bin/sh
